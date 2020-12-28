@@ -1,0 +1,7 @@
+.item {
+  font-weight: bold;
+  font-style: italic;
+}
+.item + .item {
+  margin-top: 20px;
+}
